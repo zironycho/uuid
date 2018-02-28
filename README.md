@@ -1,5 +1,11 @@
 # UUID Generation app
 
+## Call API
+* generate uuid
+  * /
+* check uuid
+  * /{{ uuid }}
+
 ## BUILD
 ```
 docker build . -t zironycho/uuid
